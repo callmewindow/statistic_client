@@ -1,5 +1,9 @@
 # statistic_client
 
+一个普通的数据分析统计展示系统
+
+>  A normal Vue.js project
+
 ## Project setup
 ```
 npm install
@@ -22,3 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
