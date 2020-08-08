@@ -15,6 +15,14 @@ Vue.use(VueRouter)
       title: "数据统计中心",
     },
     component: () => import('../views/StatisticalCenter.vue')
+  },
+  {
+    path: '/test',
+    name: 'test',
+    meta: {
+      title: "测试",
+    },
+    component: () => import('../views/test.vue')
   }
 ]
 

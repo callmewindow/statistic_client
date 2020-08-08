@@ -1,6 +1,8 @@
 {
   "name": "statistic_client",
   "version": "0.1.0",
+  "description": "A normal Vue.js project",
+  "author": "window <847590417@qq.com>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
