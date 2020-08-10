@@ -578,7 +578,7 @@ const businessRanking = {
             {"followNum":50,storeInedx:"494068"},
             {"followNum":50,storeInedx:"339946"},
             {"followNum":50,storeInedx:"522067"},
-            {"followNum":50,storeInedx:"64935"}
+            {"followNum":50,storeInedx:"64935"},
         ]
     }
 }
