@@ -17,12 +17,12 @@ Vue.use(VueRouter)
     component: () => import('../views/StatisticalCenter.vue')
   },
   {
-    path: '/test',
-    name: 'test',
+    path: '/DataQuery',
+    name: 'DataQuery',
     meta: {
-      title: "测试",
+      title: "交易信息查询",
     },
-    component: () => import('../views/test.vue')
+    component: () => import('../views/DataQuery.vue')
   }
 ]
 

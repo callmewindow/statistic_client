@@ -582,3 +582,4 @@ const businessRanking = {
         ]
     }
 }
+export default businessRanking

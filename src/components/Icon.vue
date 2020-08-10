@@ -20,8 +20,8 @@ export default {
   position: absolute;
   left: 0;
   top: 0;
-  border-top: 2px solid #63bbf1;
-  border-left: 2px solid #63bbf1;
+  border-top: 2px solid #409EFF;
+  border-left: 2px solid #409EFF;
 }
 .icon_right {
   width: 12px;
@@ -29,8 +29,8 @@ export default {
   position: absolute;
   right: 0;
   top: 0;
-  border-top: 2px solid #63bbf1;
-  border-right: 2px solid #63bbf1;
+  border-top: 2px solid #409EFF;
+  border-right: 2px solid #409EFF;
 }
 .icon_bottom {
   width: 12px;
@@ -38,8 +38,8 @@ export default {
   position: absolute;
   right: 0;
   bottom: 0;
-  border-bottom: 2px solid #63bbf1;
-  border-right: 2px solid #63bbf1;
+  border-bottom: 2px solid #409EFF;
+  border-right: 2px solid #409EFF;
 }
 .icon_left {
   width: 12px;
@@ -47,7 +47,7 @@ export default {
   position: absolute;
   left: 0;
   bottom: 0;
-  border-bottom: 2px solid #63bbf1;
-  border-left: 2px solid #63bbf1;
+  border-bottom: 2px solid #409EFF;
+  border-left: 2px solid #409EFF;
 }
 </style>

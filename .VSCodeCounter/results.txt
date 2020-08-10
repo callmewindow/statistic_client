@@ -1,0 +1,58 @@
+Date : 2020-08-11 05:24:25
+Directory : f:\Desktop\job\外包\中国人民公安大学项目\statistic_client
+Total : 22 files,  15189 codes, 34 comments, 44 blanks, all 15267 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     11,660 |          0 |          2 |     11,662 |
+| JavaScript |         14 |      2,902 |          7 |         20 |      2,929 |
+| Vue        |          4 |        590 |         26 |         12 |        628 |
+| Markdown   |          1 |         21 |          0 |          9 |         30 |
+| HTML       |          1 |         16 |          1 |          1 |         18 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |         22 |     15,189 |         34 |         44 |     15,267 |
+| public                                                                                 |          1 |         16 |          1 |          1 |         18 |
+| src                                                                                    |         15 |      3,467 |         33 |         30 |      3,530 |
+| src\APIs                                                                               |          2 |         29 |          7 |          5 |         41 |
+| src\assets                                                                             |          7 |      2,801 |          0 |          0 |      2,801 |
+| src\assets\SourceData                                                                  |          3 |      2,009 |          0 |          0 |      2,009 |
+| src\components                                                                         |          1 |         51 |          0 |          2 |         53 |
+| src\router                                                                             |          1 |         29 |          0 |          5 |         34 |
+| src\views                                                                              |          2 |        525 |         26 |          8 |        559 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                               | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\.eslintrc.js                             | JavaScript |         17 |          0 |          1 |         18 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\README.md                                | Markdown   |         21 |          0 |          9 |         30 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\babel.config.js                          | JavaScript |          5 |          0 |          1 |          6 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\package-lock.json                        | JSON       |     11,629 |          0 |          1 |     11,630 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\package.json                             | JSON       |         31 |          0 |          1 |         32 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\public\index.html                        | HTML       |         16 |          1 |          1 |         18 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\APIs\global.js                       | JavaScript |          4 |          1 |          1 |          6 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\APIs\statistic.js                    | JavaScript |         25 |          6 |          4 |         35 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\App.vue                              | Vue        |         14 |          0 |          2 |         16 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\SourceData\businessRanking.js | JavaScript |        989 |          0 |          0 |        989 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\SourceData\productRanking.js  | JavaScript |      1,001 |          0 |          0 |      1,001 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\SourceData\typeNum.js         | JavaScript |         19 |          0 |          0 |         19 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\businessRanking.js            | JavaScript |        585 |          0 |          0 |        585 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\followNum.js                  | JavaScript |         13 |          0 |          0 |         13 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\productRanking.js             | JavaScript |        174 |          0 |          0 |        174 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\assets\typeNum.js                    | JavaScript |         20 |          0 |          0 |         20 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\components\Icon.vue                  | Vue        |         51 |          0 |          2 |         53 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\main.js                              | JavaScript |         18 |          0 |          8 |         26 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\router\index.js                      | JavaScript |         29 |          0 |          5 |         34 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\views\DataQuery.vue                  | Vue        |        209 |          3 |          3 |        215 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\src\views\StatisticalCenter.vue          | Vue        |        316 |         23 |          5 |        344 |
+| f:\Desktop\job\外包\中国人民公安大学项目\statistic_client\vue.config.js                            | JavaScript |          3 |          0 |          0 |          3 |
+| Total                                                                                  |            |     15,189 |         34 |         44 |     15,267 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
